@@ -154,6 +154,7 @@ Project Link: [https://github.com/zafaris/repo_name](https://github.com/zafaris/
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [live-website]: https://example.com
+[product-screenshot]: images/product-screenshot.png
 
 [contributors-shield]: https://img.shields.io/github/contributors/zafaris/repo.svg?style=for-the-badge
 [contributors-url]: https://github.com/zafaris/repo_name/graphs/contributors
@@ -165,6 +166,7 @@ Project Link: [https://github.com/zafaris/repo_name](https://github.com/zafaris/
 [issues-url]: https://github.com/zafaris/repo_name/issues
 [license-shield]: https://img.shields.io/github/license/zafaris/repo.svg?style=for-the-badge
 [license-url]: https://github.com/zafaris/repo_name/blob/master/LICENSE.md
+
 [website-shield]: https://img.shields.io/website?label=iszaffar.com&style=for-the-badge&url=https%3A%2F%2Fiszaffar.com
 [website-url]: https://iszaffar.com
 [youtube-shield]: https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white
