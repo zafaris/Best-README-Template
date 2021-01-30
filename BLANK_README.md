@@ -21,14 +21,10 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![Website][website-shield]][website-url]
 [![YouTube][youtube-shield]][youtube-url]
 [![Instagram][instagram-shield]][instagram-url]
+[![Twitter][twitter-shield]][twitter-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -138,6 +134,8 @@ Imaad Zaffar
 ·
 [Instagram][instagram-url]
 ·
+[Twitter][twitter-url]
+·
 [LinkedIn][linkedin-url]
 ·
 [Email](mailto:zafaris.dev@gmail.com)
@@ -173,5 +171,7 @@ Project Link: [https://github.com/zafaris/repo_name](https://github.com/zafaris/
 [youtube-url]: https://www.youtube.com/channel/UCRGp4IcgPuOIJ9aIYCh2VAA
 [instagram-shield]: https://img.shields.io/badge/-Instagram-purple?&style=for-the-badge&logo=instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/zafaris_yt
+[twitter-shield]: https://img.shields.io/badge/-Twitter-blue?&style=for-the-badge&logo=youtube&logoColor=white
+[twitter-url]: https://twitter.com/zafaris_yt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/imaad-zaffar
